@@ -1,7 +1,7 @@
 ---
 authors:
 - stefanie
-bio: I am a rockstar. I'm gonna show you tonight.
+bio: Compulsive people-connector & knowledge-sharer, scientist
 education:
   courses:
   - course: MSc in Biology
@@ -13,6 +13,7 @@ education:
 interests:
 - Community building
 - Learning R slowly
+- Dirtbiking carefully
 name: Stefanie Butland
 organizations:
 - name: rOpenSci
