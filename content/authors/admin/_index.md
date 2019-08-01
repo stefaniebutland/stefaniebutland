@@ -12,8 +12,8 @@ education:
     year: 1990
 interests:
 - Community building
-- Learning R slowly
-- Dirtbiking carefully
+- Learning R ... slowly
+- Dirtbiking less cautiously
 name: Stefanie Butland
 organizations:
 - name: rOpenSci
