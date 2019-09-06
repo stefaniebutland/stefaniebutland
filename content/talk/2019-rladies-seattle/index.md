@@ -1,9 +1,9 @@
 ---
-abstract: A talk about starting to learn R by listening to R-Ladies, rOpenSci, and the broader R world.
+abstract: A talk for R-Ladies Seattle and FredHutch about starting to learn R by listening to R-Ladies, rOpenSci, and the broader R world.
 all_day: true
 authors: []
 date: "2019-05-22T08:00:00Z"
-# date_end: "2019-10-02T12:00:00Z"
+# date_end: "2019-05-22T12:00:00Z"
 event: 'R-Ladies Seattle meetup'
 event_url: https://www.meetup.com/rladies-seattle/events/261245337/
 featured: false
@@ -20,8 +20,8 @@ location: Seattle, WA, USA
 # math: true
 
 publishDate: "2019-05-22T00:00:00Z"
-slides: example
-summary: A talk about starting to learn R by listening to R-Ladies, rOpenSci, and the broader R world.
+
+summary: A talk for R-Ladies Seattle and FredHutch about starting to learn R by listening to R-Ladies, rOpenSci, and the broader R world.
 tags: []
 title: rOpenSci Community Manager Joins Her Community
 url_code: ""

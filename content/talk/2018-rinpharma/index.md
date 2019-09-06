@@ -20,7 +20,7 @@ location: Boston, MA, USA
 math: true
 
 publishDate: "2018-08-15T00:00:00Z"
-slides: example
+
 summary: Introducing rOpenSci at the first annual R/Pharma conference
 tags: []
 title: rOpenSci - enabling open and reproducible research
