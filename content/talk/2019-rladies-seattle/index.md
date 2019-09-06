@@ -11,13 +11,15 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 links:
-- icon: twitter
-  icon_pack: fab
+- icon: images
+  icon_pack: fas
+  name: slides
+  url: ../../pdf/2019-rladies-seattle.pdf
 
-location: Seattle, WA
+location: Seattle, WA, USA
 # math: true
 
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2019-05-22T00:00:00Z"
 slides: example
 summary: A talk about starting to learn R by listening to R-Ladies, rOpenSci, and the broader R world.
 tags: []
