@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 90  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -43,7 +43,7 @@ date_format = "Jan 2006"
   date_end = "2016-09-25"
 
 [[experience]]
-  title = "Project Coordinator"
+  title = "Project and Outreach Coordinator"
   company = "Life Sciences Institute, University of British Columbia"
   company_url = "https://lsi.ubc.ca/"
   location = "Vancouver BC, Canada"
@@ -57,7 +57,7 @@ date_format = "Jan 2006"
   location = "Vancouver BC, Canada"
   date_start = "2008-08-01"
   date_end = "2014-04-01"
-  description = """Embedded bioinformatician in the Hayden Laboratory. Wrote some good papers."""
+  description = """Embedded bioinformatician in the Hayden Laboratory. Wrote some good papers, but collaborations were the best part"""
   
 [[experience]]
   title = "Co-founder and organizer (volunteer)"
