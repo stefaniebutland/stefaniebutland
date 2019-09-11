@@ -7,9 +7,10 @@ date: "2019-05-22T08:00:00Z"
 event: 'R-Ladies Seattle meetup'
 event_url: https://www.meetup.com/rladies-seattle/events/261245337/
 featured: false
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+# image:
+#   caption: 'Image credit: 
+# [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+#   focal_point: Right
 links:
 - icon: images
   icon_pack: fas
@@ -23,7 +24,7 @@ publishDate: "2019-05-22T00:00:00Z"
 
 summary: A talk for R-Ladies Seattle and FredHutch about starting to learn R by listening to R-Ladies, rOpenSci, and the broader R world.
 tags: []
-title: rOpenSci Community Manager Joins Her Community
+title: Community Manager Joins Her Community
 url_code: ""
 url_pdf: ""
 url_slides: ""

@@ -3,13 +3,14 @@ abstract: Introducing rOpenSci at the first annual R/Pharma conference
 all_day: true
 authors: []
 date: "2018-08-15T13:00:00Z"
-date_end: "2018-08-16T15:00:00Z"
+# date_end: "2018-08-16T15:00:00Z"
 event: R/Pharma 2018
 event_url: http://rinpharma.com/program/
 featured: false
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+# image:
+#   caption: 'Image credit: 
+# [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+#   focal_point: Right
 links:
 - icon: images
   icon_pack: fas
@@ -17,7 +18,7 @@ links:
   url: ../../pdf/2018-rpharma-ropensci.pdf
 
 location: Boston, MA, USA
-math: true
+# math: true
 
 publishDate: "2018-08-15T00:00:00Z"
 
