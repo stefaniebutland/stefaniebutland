@@ -34,10 +34,8 @@ The last paper I worked on as a research scientist. We curated data from 15 publ
 
 The major content of this paper was published data we curated for an analysis in another paper. We came to realize this was a good resource to publish on its own. It was a LOT of work and many people don't have the knowledge and time resources to do this (and why should they, if we already did the work, enabled by grant funding).
 
-Another rather euphoric collaboration among friends and colleagues. 
-
-> We don't know how to do this well, but this person does
+Another rather euphoric collaboration among friends and colleagues, where sometimes the best approach is: "We don't know how to do this well, but this other lab does."
 
 > This will never get published in PLOS Computational Biology ;-)
 
-Shaun Sanders and Dale Martin completed the paper after I left my research scientist job / career on the way to becoming a community manager for an organization that creates technical and social infrastructure for open data and reproducible research. Pretty cool, eh.
+Shaun Sanders and Dale Martin completed the paper after I left my research scientist career on the way to becoming the community manager for an organization that embraces open data and reproducible research. Pretty cool, eh.

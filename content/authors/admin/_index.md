@@ -35,4 +35,4 @@ social:
 superuser: true
 ---
 
-I am the Community Manager for rOpenSci and a 2017 AAAS Community Engagement Fellow. I'm a biologist, bioinformatician, and compulsive people-connector and knowledge-sharer. My research has been in bacteria, plants, insects and mammals, first at the bench and then on a laptop. At rOpenSci I'm helping building up the social and technical infrastructure for open and reproducible research with shared data and reusable software.
+I have my dream job as the Community Manager for rOpenSci. I'm a biologist, bioinformatician, and compulsive people-connector and knowledge-sharer. I was one of the inaugural AAAS Community Engagement Fellows and am actively involved with the new Center for Scientific Collaboration and Community Engagement as an alumna and mentor. My research life involved bacteria, plants, insects, and mammals, first at the bench and then on a laptop. At rOpenSci I'm helping building up the social and technical infrastructure for open and reproducible research with shared data and reusable software.
