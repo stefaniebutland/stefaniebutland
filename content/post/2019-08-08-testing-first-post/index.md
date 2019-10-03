@@ -1,10 +1,9 @@
 ---
-title: Testing First Post
+title: Testing Dummy Post
 author: Stefanie Butland
 date: '2019-08-08'
 slug: testing-first-post
-categories:
-  - learning
+categories: ''
 tags:
   - test
 subtitle: ''

@@ -21,7 +21,7 @@ date_format = "Jan 2006"
   title = "Community Manager"
   company = "rOpenSci"
   company_url = "https://ropensci.org/"
-  location = "Kamloops BC, Canada"
+  location = "Berkeley CA, USA via Kamloops BC, Canada"
   date_start = "2016-09-26"
   date_end = ""
 
@@ -33,14 +33,6 @@ date_format = "Jan 2006"
   date_start = "2017-01-01"
   date_end = "2018-01-01"
   description = """1-year professional development fellowship for improving collaboration and community building in science"""
-  
-[[experience]]
-  title = "Consultant Project Coordinator"
-  company = "Independent"
-  company_url = ""
-  location = "Kamloops BC, Canada"
-  date_start = "2015-08-02"
-  date_end = "2016-09-25"
 
 [[experience]]
   title = "Project and Outreach Coordinator"
@@ -49,6 +41,7 @@ date_format = "Jan 2006"
   location = "Vancouver BC, Canada"
   date_start = "2014-03-18"
   date_end = "2015-08-01"
+  description = """Lots of connecting and matchmaking across the life sciences and computational sciences"""
 
 [[experience]]
   title = "Research Scientist"
@@ -57,7 +50,7 @@ date_format = "Jan 2006"
   location = "Vancouver BC, Canada"
   date_start = "2008-08-01"
   date_end = "2014-04-01"
-  description = """Embedded bioinformatician in the Hayden Laboratory. Wrote some good papers, but collaborations were the best part"""
+  description = """Embedded bioinformatician in the Hayden Laboratory. Wrote some good papers. Collaborations were the best part"""
   
 [[experience]]
   title = "Co-founder and organizer (volunteer)"
@@ -66,5 +59,5 @@ date_format = "Jan 2006"
   location = "Vancouver BC, Canada"
   date_start = "2002-09-01"
   date_end = "2012-08-31"
-  description = """Monthly seminar and networking series for the Vancouver bioinformatics community."""  
+  description = """Monthly seminar and networking series for the Vancouver bioinformatics community, that spawned TorBUG and MonBUG."""  
 +++

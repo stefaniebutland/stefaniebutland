@@ -9,12 +9,12 @@ date: "2012-05-01T00:00:00Z"
 doi: "10.1016/j.pneurobio.2011.11.002"
 featured: false
 projects: []
-publication: 'Progress in neurobiology 97 (2), 220-238'
+publication: 'Progress in Neurobiology'
 publication_short: ""
 # publication_types:
 # - "2"
 publishDate: "2012-05-01T00:00:00Z"
-summary: This paper was my favourite collaboration.
+summary: My favourite collaboration.
 tags:
 title: Putting proteins in their place. Palmitoylation in Huntington disease and other neuropsychiatric diseases
 url_code: ""
