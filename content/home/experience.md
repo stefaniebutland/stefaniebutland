@@ -27,8 +27,8 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Community Engagement Fellow"
-  company = "AAAS"
-  company_url = "https://www.aaas.org/programs/center-scientific-collaboration-and-community-engagement"
+  company = "Center for Scientific Collaboration and Community Engagement"
+  company_url = "https://www.cscce.org/"
   location = "Washington DC, USA"
   date_start = "2017-01-01"
   date_end = "2018-01-01"
