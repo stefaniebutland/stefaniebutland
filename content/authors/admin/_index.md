@@ -1,7 +1,7 @@
 ---
 authors:
 - stefanie
-bio: tech community manager sharing the power of welcome, a people-connector, knowledge-sharer, scientist
+bio: tech community manager sharing the value of welcome, a people-connector, knowledge-sharer, scientist
 education:
   courses:
   - course: MSc in Biology
@@ -12,6 +12,7 @@ education:
     year: 1990
 interests:
 - Community engagement
+- Open science
 - Learning R ... gradually
 - Dirtbiking less cautiously
 name: Stefanie Butland
