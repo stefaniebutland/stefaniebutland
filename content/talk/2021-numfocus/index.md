@@ -1,5 +1,5 @@
 ---
-abstract: Panelist for NumFOCUS Project Community Development discussion.
+abstract: Panel discussion for NumFOCUS Supporter Summit 2021.
 all_day: true
 authors: []
 date: "2021-11-16T08:00:00Z"
@@ -22,7 +22,7 @@ location: online
 
 publishDate: "2021-11-16T00:00:00Z"
 
-summary: Panelist for NumFOCUS Project Community Development discussion.
+summary: Panel discussion for NumFOCUS Supporter Summit 2021.
 tags: []
 title: NumFOCUS Project Community Development discussion with rOpenSci, ArviZ, JuliaLang, Project Jupyter, Anaconda
 url_code: ""
@@ -32,5 +32,8 @@ url_video: ""
 ---
 
 Peter Wang, CEO of Anaconda and NumFOCUS Advisory Council member, moderates a lively panel discussion on Project Community Development with Stefanie Butland (rOpenSci), Ravin Kumar (ArviZ), Logan Kilpatrick (JuliaLang), and Jason Grout (Project Jupyter).
+
+This was such a fun discussion among folks who think deeply about this stuff. We touched on topics including our communities' successes and challenges, the value of welcome, helping users become contributors, and examples of how we are making access more equitable and inclusive, especially for people from historically excluded and underserved groups.  
+
 
 
