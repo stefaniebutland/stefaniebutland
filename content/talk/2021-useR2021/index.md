@@ -1,5 +1,5 @@
 ---
-abstract: A talk for the international useR! 2021 conference about our approach to engaging the broad spectrum of users and developers in the rOpenSci community.
+abstract: International useR! 2021 conference talk on our unique model of community engagement to support the complex needs of users and developers in the rOpenSci community. Co-created by Stefanie Butland, Karthik Ram, Lou Woodley.
 all_day: true
 authors: []
 date: "2021-07-06T08:00:00Z"
@@ -16,13 +16,17 @@ links:
   icon_pack: fas
   name: slides
   url: https://docs.google.com/presentation/d/1W4DepLd6FvunkGsTloyn-be_X5jI7dS-gAVtpsJb6iM
+- icon: video
+  icon_pack: fas
+  name: video
+  url: https://www.youtube.com/watch?v=2B7H8WJOX40&t=1048s
 
 location: online
 # math: true
 
-publishDate: "2021-07-06T00:00:00Z"
+publishDate: "2022-01-31T00:00:00Z"
 
-summary: A talk for the international useR! 2021 conference about our approach to engaging the broad spectrum of users and developers in the rOpenSci community.
+summary: International useR! 2021 conference talk on our unique model of community engagement to support the complex needs of users and developers in the rOpenSci community. Co-created by Stefanie Butland, Karthik Ram, Lou Woodley.
 tags: []
 title: rOpenSci’s Model for Managing a Federated Open Source Software Community
 url_code: ""
