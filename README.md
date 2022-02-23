@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a tech community manager and reformed research scientist who can never resist connecting people, sharing knowledge, and helping people recognize the value they bring to a project. As rOpenSci's first Community Manager from 2016 to 2022, I helped build a welcoming community of developers and users who value open and reproducible research with shared data and reusable software. I'mC involved with the Center for Scientific Collaboration and Community Engagement as one of the inaugural Community Engagement Fellows, a mentor, and member. My research life involved bacteria, plants, insects, and mammals, first at the bench and then on a laptop. 
+I'm a tech community manager and reformed research scientist who can never resist connecting people, sharing knowledge, and helping people recognize the value they bring to a project. As rOpenSci's first Community Manager from 2016 to 2022, I helped build a welcoming community of developers and users who value open and reproducible research with shared data and reusable software. I'm involved with the Center for Scientific Collaboration and Community Engagement as one of the inaugural Community Engagement Fellows, a mentor, and member. My research life involved bacteria, plants, insects, and mammals, first at the bench and then on a laptop. 
 
 - 🔍 I’m currently exploring the next phase of my career
 - 😄 Pronouns: she/her
