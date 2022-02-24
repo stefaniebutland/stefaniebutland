@@ -1,10 +1,32 @@
-### Hi there 👋
+### Welcome! 👋
 
 I'm a tech community manager and reformed research scientist who can never resist connecting people, sharing knowledge, and helping people recognize the value they bring to a project. As rOpenSci's first Community Manager from 2016 to 2022, I helped build a welcoming community of developers and users who value open and reproducible research with shared data and reusable software. I'm involved with the Center for Scientific Collaboration and Community Engagement as one of the inaugural Community Engagement Fellows, a mentor, and member. My research life involved bacteria, plants, insects, and mammals, first at the bench and then on a laptop. 
 
 - 🔍 I’m currently exploring the next phase of my career
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have a GitHub sticker on my dirtbike and a Kawasaki sticker on my laptop
+
+**Personal website:** [stefaniebutland.netlify.app](https://stefaniebutland.netlify.app/)
+
+**ORCID profile:** [0000-0002-5427-8951](https://orcid.org/0000-0002-5427-8951)
+
+**Twitter:** [@stefaniebutland](https://twitter.com/stefaniebutland)
+
+### Experience
+
+- 2016-2022: Community Manager, rOpenSci
+- 2017: Community Engagment Fellow, Center for Scientific Collaboration and Community Engagement
+- 2014-2015: Project Coordinator, Life Sciences Institute, University of British Columbia
+- 1993-2015: Research Scientist and Bioinformatician, University of British Columbia
+- 2002-2012: Co-founder, organizer, Vancouver Bioinformatics User Group
+- 1993: MSc: Transcript Analysis of the _foraging_ locus in Drosophila melanogaster 🪰
+
+
+
+
+
+
+
 
 <!--
 **stefaniebutland/stefaniebutland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
