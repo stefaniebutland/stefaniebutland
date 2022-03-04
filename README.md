@@ -17,7 +17,7 @@ I'm a tech community manager and reformed research scientist who can never resis
 - 2016-2022: Community Manager, rOpenSci
 - 2017: Community Engagment Fellow, Center for Scientific Collaboration and Community Engagement
 - 2014-2015: Project Coordinator, Life Sciences Institute, University of British Columbia
-- 1993-2015: Research Scientist and Bioinformatician, University of British Columbia
+- 1993-2014: Research Scientist and Bioinformatician, University of British Columbia
 - 2002-2012: Co-founder, organizer, Vancouver Bioinformatics User Group
 - 1993: MSc: Transcript Analysis of the _foraging_ locus in Drosophila melanogaster 🪰
 
