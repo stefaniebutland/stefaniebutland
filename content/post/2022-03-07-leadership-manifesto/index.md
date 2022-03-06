@@ -3,19 +3,19 @@ title: My Personal Leadership Manifesto ... from my past self in 2013
 author: Stefanie Butland
 date: '2022-03-07'
 slug:leadership-manifesto
-categories: ''
-tags:
-  - test
-subtitle: ''
-summary: ''
-authors: []
-lastmod: '2019-08-08T20:18:04-07:00'
-featured: no
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: no
-projects: []
+# categories: ''
+# tags:
+#   - test
+# subtitle: ''
+# summary: ''
+# authors: []
+# lastmod: '2019-08-08T20:18:04-07:00'
+# featured: no
+# image:
+#   caption: ''
+#   focal_point: ''
+#   preview_only: no
+# projects: []
 ---
 _I wrote this in 2013 as a research scientist pondering moving away from work where success is measured by publications, and toward having a bigger impact by embracing the people-connecting and knowledge-sharing work that always came naturally._
 
