@@ -21,22 +21,15 @@ _I wrote this in 2013 as a research scientist pondering moving away from work wh
 
 _Reading this nine years later, I’m struck by how much I agree with myself._
 
- 
+--- 
 
 BE YOURSELF
 
- 
-
 Be authentic
 
- 
-
-Trust your own ideas
-
-Trust your own opinion
-
-Trust your own confidence
-
+Trust your own ideas</br>
+Trust your own opinion</br>
+Trust your own confidence</br>
 Trust yourself
 
 You have experience and expertise - do not underestimate or undervalue these. Use them. This is where your ideas and opinions come from (they do not arise as random thoughts out of the ether).
@@ -51,16 +44,11 @@ Engage people.
 
  
 
-SHARE
-
-ASK
-
-LISTEN
-
-SYNTHESIZE
-
-repeat...
-
+SHARE</br>
+ASK</br>
+LISTEN</br>
+SYNTHESIZE</br>
+repeat...</br>
 Take action
 
 Share what you REALLY think while being respectful
