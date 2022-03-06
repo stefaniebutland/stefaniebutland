@@ -27,9 +27,9 @@ BE YOURSELF
 
 Be authentic
 
-Trust your own ideas</br>
-Trust your own opinion</br>
-Trust your own confidence</br>
+Trust your own ideas  
+Trust your own opinion  
+Trust your own confidence  
 Trust yourself
 
 You have experience and expertise - do not underestimate or undervalue these. Use them. This is where your ideas and opinions come from (they do not arise as random thoughts out of the ether).
@@ -44,11 +44,11 @@ Engage people.
 
  
 
-SHARE</br>
-ASK</br>
-LISTEN</br>
-SYNTHESIZE</br>
-repeat...</br>
+SHARE  
+ASK  
+LISTEN  
+SYNTHESIZE  
+repeat...  
 Take action
 
 Share what you REALLY think while being respectful
