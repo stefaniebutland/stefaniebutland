@@ -2,7 +2,7 @@
 title: My Personal Leadership Manifesto ... from my past self in 2013
 author: Stefanie Butland
 date: '2022-03-07'
-slug:leadership-manifesto
+slug: leadership-manifesto
 # categories: ''
 # tags:
 #   - test
