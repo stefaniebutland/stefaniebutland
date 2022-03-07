@@ -1,5 +1,5 @@
 ---
-title: My Personal Leadership Manifesto ... from my past self in 2013
+title: Stef's Personal Leadership Manifesto ... from my past self in 2013
 author: Stefanie Butland
 date: '2022-03-07'
 slug: leadership-manifesto
@@ -17,7 +17,7 @@ slug: leadership-manifesto
 #   preview_only: no
 # projects: []
 ---
-_I wrote this in 2013 as a research scientist pondering moving away from work where success is measured by publications, and toward having a bigger impact by embracing the people-connecting and knowledge-sharing work that always came naturally._
+_I wrote this to myself as a research scientist pondering moving away from work where success is measured by publications, and toward having a bigger impact by embracing the people-connecting and knowledge-sharing work that always came naturally._
 
 _Reading this nine years later, I’m struck by how much I agree with myself._
 
@@ -55,14 +55,12 @@ Share what you REALLY think while being respectful
 
  
 
-Be accountable.
-
+Be accountable.  
 Be proud that the buck stops with you.
 
  
 
-Let people help.
-
+Let people help.  
 Let people help in their own way. They too are experts.
 
 A good leader lets people help because you can only have a limited impact if you try to do everything yourself. Remember, you’re trying to unite people and build on their strengths in order to have the best possible outcome, no matter the goal. As you know, people excel at things they are excited by/passionate about.
@@ -95,10 +93,8 @@ Get clarification for things you don't understand or don't think you agree with.
 
  
 
-Pay attention to people with experience.
-
-Pay attention to people who are naïve.
-
+Pay attention to people with experience.  
+Pay attention to people who are naïve.  
 Both bring valuable perspectives.
 
  
@@ -117,15 +113,12 @@ Engage people who feel tired/jaded. How to do this? What is tiring them out? Hel
 
  
 
-People are different.
-
- 
-
+People are different.  
 Be aware of people's different learning styles and communication styles.
 
  
 
-Don't expect everyone to look engaged at all times. Everyone has his or her own life/excitement/stresses/challenges/way of being. Figure out how to engage people who are not as enthusiastic or idealistic as I am. People need to work from their own comfort zone.
+Don't expect everyone to look engaged at all times. Everyone has their own life/excitement/stresses/challenges/way of being. Figure out how to engage people who are not as enthusiastic or idealistic as I am. People need to work from their own comfort zone.
 
 Watch out for stakeholder fatigue. Give people time to do their work. Don’t spend too much time talking about doing stuff. Let them do their stuff.
 
