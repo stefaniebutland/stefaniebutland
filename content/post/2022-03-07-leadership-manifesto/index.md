@@ -1,5 +1,5 @@
 ---
-title: 'Stef's Personal Leadership Manifesto ... from 2013'
+title: "Stef's Personal Leadership Manifesto ... from 2013"
 author: Stefanie Butland
 date: '2022-03-07'
 slug: leadership-manifesto
