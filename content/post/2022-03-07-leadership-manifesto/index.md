@@ -1,5 +1,5 @@
 ---
-title: Stef's Personal Leadership Manifesto ... from my past self in 2013
+title: 'Stef's Personal Leadership Manifesto ... from 2013'
 author: Stefanie Butland
 date: '2022-03-07'
 slug: leadership-manifesto
@@ -16,8 +16,9 @@ slug: leadership-manifesto
 #   focal_point: ''
 #   preview_only: no
 # projects: []
+# twitterImg: /static/img/stefaniebutland-dissent-by-novak-rogic.jpg
 ---
-_I wrote this to myself as a research scientist pondering moving away from work where success is measured by publications, and toward having a bigger impact by embracing the people-connecting and knowledge-sharing work that always came naturally._
+_I wrote this to myself in 2013 as a research scientist pondering moving away from work where success is measured by publications, and toward having a bigger impact by embracing the people-connecting and knowledge-sharing work that always came naturally._
 
 _Reading this nine years later, I’m struck by how much I agree with myself._
 
