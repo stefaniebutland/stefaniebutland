@@ -18,6 +18,13 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Team member"
+  company = "Openscapes"
+  company_url = "https://www.openscapes.org/"
+  location = "NCEAS, UCSB via Kamloops BC, Canada"
+  date_start = "2022-04-01"
+
+[[experience]]
   title = "Community Manager"
   company = "rOpenSci"
   company_url = "https://ropensci.org/"
