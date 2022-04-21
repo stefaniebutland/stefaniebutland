@@ -1,7 +1,7 @@
 ---
 authors:
 - stefanie
-bio: tech community manager sharing the value of welcome, a people-connector, knowledge-sharer, scientist
+bio: science & tech community manager sharing the value of welcome, a people-connector, knowledge-sharer, scientist
 education:
   courses:
   - course: MSc in Biology
@@ -36,4 +36,4 @@ social:
 superuser: true
 ---
 
-I'm a tech community manager and reformed research scientist who can never resist connecting people, sharing knowledge, and helping people recognize the value they bring to a project. I am actively involved with the Center for Scientific Collaboration and Community Engagement as one of the inaugural Community Engagement Fellows, a mentor, and member. My research life involved bacteria, plants, insects, and mammals, first at the bench and then on a laptop. As rOpenSci's first Community Manager from 2016 to 2022, I helped build a welcoming community of developers and users who value open and reproducible research with shared data and reusable software. Now exploring the next phase of my career.
+I'm a tech community manager and reformed research scientist who can never resist connecting people, sharing knowledge, and helping people recognize the value they bring to a project. Proud member of the Openscapes team where "We mentor research teams in open data science for kinder, better science for future us." I am actively involved with the Center for Scientific Collaboration and Community Engagement as one of the inaugural Community Engagement Fellows, a mentor, and member. My research life involved bacteria, plants, insects, and mammals, first at the bench and then on a laptop. As rOpenSci's first Community Manager from 2016 to 2022, I helped build a welcoming community of developers and users who value open and reproducible research with shared data and reusable software. Exploring this next phase of my career.
